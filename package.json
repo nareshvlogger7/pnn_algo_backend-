@@ -3,9 +3,10 @@
   "version": "1.0.0",
   "description": "This is a website makes trading easy to everyone out there",
   "main": "server.js",
-  "build": "node server.js",
+  
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "build": "node server.js"
   },
   "dependencies": {
     "axios": "^0.27.2",               // HTTP client
