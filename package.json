@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "This is a website makes trading easy to everyone out there",
   "main": "server.js",
+  "build": "node server.js",
   "scripts": {
     "start": "node server.js"
   },
