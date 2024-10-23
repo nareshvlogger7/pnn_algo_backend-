@@ -9,16 +9,16 @@
     "build": "node server.js"
   },
   "dependencies": {
-    "axios": "^0.27.2",               // HTTP client
-    "body-parser": "^1.19.0",         // Middleware to handle JSON requests
-    "cors": "^2.8.5",                  // Middleware for enabling CORS
-    "express": "^4.18.2",              // Web framework for Node.js
-    "moment": "^2.29.1",               // Date handling library
-    "moment-timezone": "^0.5.34",      // Timezone support for moment
-    "pandas-js": "^0.1.0",             // Data manipulation library
-    "yahoo-finance": "^0.2.12",        // Yahoo Finance API wrapper
-    "ml-regression": "^6.0.0",         // Machine learning models
-    "mathjs": "^11.6.0"                // Mathematical functions and operations
+    "axios": "^0.27.2",               
+    "body-parser": "^1.19.0",       
+    "cors": "^2.8.5",                 
+    "express": "^4.18.2",              
+    "moment": "^2.29.1",            
+    "moment-timezone": "^0.5.34",     
+    "pandas-js": "^0.1.0",             
+    "yahoo-finance": "^0.2.12",        
+    "ml-regression": "^6.0.0",         
+    "mathjs": "^11.6.0"                
   },
   "author": "Naresh.N",
   "license": "ISC"
